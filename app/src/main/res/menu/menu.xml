@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/historia_zamowien"
+        android:title="@string/historia"/>
+
+    <item android:id="@+id/autor"
+        android:title="@string/o_autorze" />
+</menu>

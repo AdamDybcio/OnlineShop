@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">ProjektZaliczeniowyAD</string>
+    <string name="dane">DANE</string>
+    <string name="imi_i_nazwisko">Imię i nazwisko</string>
+    <string name="ilo">ILOŚĆ</string>
+    <string name="dodatki">DODATKI</string>
+    <string name="myszka">Myszka</string>
+    <string name="klawiatura">Klawiatura</string>
+    <string name="kamera_internetowa">Kamera internetowa</string>
+    <string name="dodaj">DODAJ</string>
+    <string name="koszyk">KOSZYK</string>
+    <string name="zestaw">Zestaw</string>
+    <string name="zdjecie">Zdjecie</string>
+    <string name="twoje_zam_wienie">Zamówienia:</string>
+    <string name="kup">KUP</string>
+    <string name="cena_z">CENA [PLN]:</string>
+    <string name="zam_w">Zamów</string>
+    <string name="historia">Historia</string>
+    <string name="_0" translatable="false">0</string>
+    <string name="email">Email</string>
+    <string name="temat_email">Twoje zamówienie w sklepie SZMEJE</string>
+    <string name="wiadomosc_email3">"Komputer: "</string>
+    <string name="wiadomosc_email4">"Ilość: "</string>
+    <string name="wiadomosc_email7">"Kamera: "</string>
+    <string name="wiadomosc_email8">"Cena razem: "</string>
+    <string name="wiadomosc_email9">Dziękujemy za zakupy i zapraszamy ponownie!</string>
+    <string name="kamera_brak">Brak</string>
+    <string name="brak">Brak</string>
+    <string name="cena_kamera1">\nCENA: 129PLN</string>
+    <string name="cena_kamera2">CENA: 119PLN</string>
+    <string name="cena_kamera3">CENA: 79PLN</string>
+    <string name="cena_klawa1">CENA: 329PLN</string>
+    <string name="cena_klawa2">CENA: 349PLN</string>
+    <string name="cena_klawa3">CENA: 299PLN</string>
+    <string name="cena_pc1">CENA: 3824PLN</string>
+    <string name="cena_pc2">CENA: 5832PLN</string>
+    <string name="cena_pc3">CENA: 7764PLN</string>
+    <string name="cena_myszka1">CENA: 89PLN</string>
+    <string name="cena_myszka2">CENA: 269PLN</string>
+    <string name="cena_myszka3">CENA: 199PLN</string>
+    <string name="wiadomosc_email6">"Klawiatura: "</string>
+    <string name="wiadomosc_email10">Pomyślnie złożono zamówienie:</string>
+    <string name="brak_danych">Brak danych</string>
+    <string name="zamowiono_toast">Zamówiono!</string>
+    <string name="blad">Błąd</string>
+    <string name="wiadomosc_email1">"Witaj "</string>
+    <string name="wiadomosc_email2" translatable="false">!</string>
+    <string name="wiadomosc_email11">"Myszka: "</string>
+    <string name="wiadomosc_email5">Dodatki:</string>
+    <string name="telefon">Telefon</string>
+    <string name="podaj_dane">Podaj dane!</string>
+    <string name="numer_telefonu">Numer telefonu :</string>
+    <string name="email_napis" translatable="false">Email :</string>
+    <string name="kamera">Kamera :</string>
+    <string name="klawiatura_napis">Klawiatura :</string>
+    <string name="myszka_napis">Myszka :</string>
+    <string name="dodatki_napis">Dodatki :</string>
+    <string name="data_napis">Data zamówienia :</string>
+    <string name="cena_napis">Cena razem [zł] :</string>
+    <string name="zlozono_sms">Pomyślnie złożono zamówienie.</string>
+    <string name="szmeje_sms">Sklep SZMEJE</string>
+    <string name="o_autorze">O autorze</string>
+    <string name="adam_dybcio" translatable="false">Adam Dybcio</string>
+    <string name="autor">Autor:</string>
+    <string name="jezyk">Język</string>
+    <string name="polski">Polski</string>
+    <string name="angielski">Angielski</string>
+    <string name="tytul">Sklep internetowy SZMEJE</string>
+</resources>
