@@ -2,7 +2,8 @@
 
 This is my Android Studio project (one of many).
 It's not perfectly made, but it was my school project, which was supposed to look exactly like on the screenshot below.
-![App_up](https://user-images.githubusercontent.com/68535467/164110872-35eb8633-cfc9-4b49-8a2c-2384e366c5a4.jpg =250x250)
+<img src="https://user-images.githubusercontent.com/68535467/164110872-35eb8633-cfc9-4b49-8a2c-2384e366c5a4.jpg" width="100" height="100">
+![App_up](https://user-images.githubusercontent.com/68535467/164110872-35eb8633-cfc9-4b49-8a2c-2384e366c5a4.jpg)
 ![App_down](https://user-images.githubusercontent.com/68535467/164110881-cb0cd33e-c7e4-4483-934d-9f386baae018.jpg)
 
 - What is this project about then?
